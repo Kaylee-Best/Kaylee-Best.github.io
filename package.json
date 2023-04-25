@@ -1,0 +1,24 @@
+{
+  "name": "kaylee-best.github.io",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaylee-Best/Kaylee-Best.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaylee-Best/Kaylee-Best.github.io/issues"
+  },
+  "homepage": "https://github.com/Kaylee-Best/Kaylee-Best.github.io",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
