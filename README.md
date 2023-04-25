@@ -18,6 +18,7 @@ Bachelors of Arts | Digital Media, June 2024
 https://kaylee-best.github.io/Menu-App/
 
 ### Exercise App
+https://Kaylee-Best.github.io/WorkoutApp
 
 ### Visual Portfolio
 https://drive.google.com/drive/folders/1-XKMqLDa0kY102sOlDxqX8lcxycg64wj?usp=share_link
